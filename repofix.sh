@@ -1,6 +1,7 @@
 # Script to fix mirrorlist shared by ultrahacx of the androix team. 
 # arkansawdave74 made it interactive by removing the --no-confirm as a default answer prevented the update.
 # During update all answers should be "Yes."
+
 #!/bin/bash
 
 folder=manjaro-fs
